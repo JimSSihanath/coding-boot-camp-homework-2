@@ -50,6 +50,11 @@ p {
     color: black;
 }
 
+.about-my-contact {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
 .about-my-contact img {
     max-height: 150px;
 }
