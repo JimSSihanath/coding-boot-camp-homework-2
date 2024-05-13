@@ -2,3 +2,20 @@
     max-width: 1000px;
     margin: 0 auto;
 }
+
+.navigation {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.navigation ul {
+    list-style-type: none;
+}
+
+.navigation ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
